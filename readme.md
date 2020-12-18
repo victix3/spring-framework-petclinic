@@ -1,4 +1,4 @@
-# TP INSA
+# TP INSA EXO2Bis
 
 # Spring PetClinic Sample Application
 
